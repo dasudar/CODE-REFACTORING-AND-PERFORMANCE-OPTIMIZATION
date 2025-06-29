@@ -14,4 +14,4 @@
 
 *INSTRUCTIONS*: TAKE AN OPEN-SOURCE PROJECT AND REFACTOR IT TO IMPROVE READABILITY AND PERFORMANCE.
 #
-# 🔧 Project Refactoring Report
+### 🔧 Project Refactoring Report
