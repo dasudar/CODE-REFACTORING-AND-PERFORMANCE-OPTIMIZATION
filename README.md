@@ -18,7 +18,7 @@
 
 **Project:** todolist-python-cli  
 **Original Repo:** [go4krishanu/todolist-python-cli](https://github.com/go4krishanu/todolist-python-cli)  
-**Refactored Repo:** See my repository 
+**Refactored Repo:** See my repository  
 **Refactored By:** Udar Das   
 **Date:** June 29, 2025 
 
